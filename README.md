@@ -39,6 +39,6 @@
 </div>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🧑🏻‍💻 Atualmente Trabalho como Desenvolvedor Front-end na empresa Emsoft Solutions
+- 📖 Estudo Sistemas de Informação na Libertas Faculdades Integradas
 
