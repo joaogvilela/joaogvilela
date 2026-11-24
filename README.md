@@ -1,4 +1,4 @@
-## Fala ai 👊🏻
+## Fala ai, sou o João Gabriel Vilela Figueiredo desenvolvedor Front-end 👊🏻
 
 <a href="https://github-stats-extended.vercel.app/api?username=joaogvilela">
   <picture>
@@ -18,8 +18,6 @@
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaogvilela&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
-
-   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=joaogvilela=true&theme=dark_github&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=joaogvilela=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
    <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
