@@ -1,22 +1,22 @@
 ## Fala ai, sou o João Gabriel Vilela Figueiredo desenvolvedor Front-end 👊🏻
 
-<a href="https://github-stats-extended.vercel.app/api?username=joaogvilela">
+<a href="https://github-stats-extended.vercel.app/api?username=Vilela">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=joaogvilela&show_icons=true&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=Vilela&show_icons=true&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=joaogvilela&theme=light_github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Vilela&theme=light_github" />
   </picture>
 </a>
 </div>
 
  <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=joaogvilela&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Vilelaa&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaogvilela&langs_count=4&theme=light_github" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vileal&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
    <div style="display: inline_block"><br>
